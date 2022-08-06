@@ -1,2 +1,2 @@
 # Unit Testing Activity
-Changed this file with the GUI.
+Changed this file with the GUI.  Made a greeting system so if your name is all caps it would be "HELLO, NAME!", if your name was not all caps it would be "Hello, Name", if your name is nothing then it would be "Hello there!". 

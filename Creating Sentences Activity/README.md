@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In this assignment we turned an array into a sentence. We did this by creating an array using an array variable called "words" and a function using a for loop to go through the array to create a sentence.  We used a "words" variable to create the array with the elements: 'This', 'is', 'Java', 'Script', 'coding!'.

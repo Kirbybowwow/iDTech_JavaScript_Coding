@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+We made a fortune teller game where you pick a number from 0 to 10 and then you will have your fortune told.  We used if loops to see what fortune you would get, 0 to 3 are bad fortunes, 4 to 7 are average fortunes, and 8 to 10 are good fortunes.

@@ -1,6 +1,6 @@
 // TODO: Create an array variable called "words" with the following elements: 'This', 'is', 'JavaScript', 'Coding!'
 // YOUR CODE GOES HERE
-let words = ['This ', 'is ', 'JavaSript ', 'Coding!'];
+let words = ['This ', 'is ', 'JavaScript ', 'Coding!'];
 
 // TODO: Create an empty string variable called "sentence".
 // YOUR CODE GOES HERE

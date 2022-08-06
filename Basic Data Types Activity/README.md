@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this assignment we created a variable called myFirstName, and assigned it to a string value with our name. Then we made a variable called numberOfCities and assigned it with number value that represents the number of cities we visited.  Then we made another variable called havingFun and assigned it with a Boolean value.
